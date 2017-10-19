@@ -2,16 +2,19 @@ Abhi Patel - 10/18/17 - Period 2
 Pseudocode Assignment: Go Fish
 
 How to play Go Fish:
-Step one: Shuffle your deck of cards.
-Step two: Deal 7 cards to each player.
-Step three: Place the remaining stack of cards in the center of the group of players.
-Step four: Look at the cards in your hand. The goal of the game is to have the most pairs by the time the cards run out.
+Step one: Shuffle your deck of cards;
+Step two: Deal 7 cards to each player;
+Step three: Place the remaining stack of cards in the center of the group of players;
+Step four: Look at the cards in your hand. The goal of the game is to have the most pairs by the time the cards run out;
 Step five: If you have pairs:
-             Remove the cards from your hand and place them in a pile next to you.
-             Don't have any pairs? Do nothing.
-Step six: Designate a player to begin the first round.
-Step seven: This player will look at their hand again and decide which card they want to make a pair out of.
-Step eight: Then, they will ask a player if they have that card.
+             Remove the cards from your hand and place them in a pile next to you;
+           If you don't have any pairs:
+             Do nothing;
+Step six: Designate a player to begin the first round;
+Step seven: This player will look at their hand again and decide which card they want to make a pair out of;
+Step eight: Then, they will ask a player if they have that card;
 Step 9: The player who is asked will say:
-          If they have the card that they were asked of, then they give the card to the player that asked for them.
-          If they do not have the card, then they say "Go fish". The play who orignially asked for the card will draw a card from the stack of cards in the center of the group.
+          If they have the card that they were asked of: 
+            they give the card to the player that asked for them;
+          If they do not have the card: 
+            they say "Go fish". The play who orignially asked for the card will draw a card from the stack of cards in the center of the group;
