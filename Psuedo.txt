@@ -11,7 +11,12 @@ Step five: If you have pairs:
              Don't have any pairs? Do nothing.
 Step six: Designate a player to begin the first round.
 Step seven: This player will look at their hand again and decide which card they want to make a pair out of.
-Step eight: Then, they will ask a player if they have that card.
-Step 9: The player who is asked will say:
-          If they have the card that they were asked of, then they give the card to the player that asked for them.
-          If they do not have the card, then they say "Go fish". The play who orignially asked for the card will draw a card from the stack of cards in the center of the group.
+Step eight: Then, they will ask any other player if they have that card.
+Step nine: The player who is asked will:
+          If they have the card that they were asked for, they give the card to the player that asked for it. If you have multiple cards  
+          of the same number, you only give one of them. Do NOT give more than one card at a time.
+          If they do not have the card, then they say "Go fish". The person who orignially asked for the card will draw a card from the             stack of cards in the center of the group.
+Step ten: If the player was able to obtain a cards from somebody, they are able to repeat steps seven to nine. If not, they move on to               step eleven.
+Step eleven: End of round. Move to step 12.
+Step twelve: The person to the left of the player who just had their turn will now repeat steps seven to eleven until all 52 cards are paired.
+Step thirteen: Once all the cards are paired, each player will count up the amount of pairs that they have. The person with the most                      amount of pairs wins the game.
